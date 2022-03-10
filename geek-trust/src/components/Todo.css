@@ -1,0 +1,40 @@
+.main{
+    margin-top: 4rem;
+}
+.divTag{
+    border-bottom: 1px solid rgb(10, 10, 10,0.2);
+    border-top: 1px solid rgb(10, 10, 10,0.2);
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1px;
+    width: 80%;
+    margin: auto;
+    
+}
+.inp1{
+    width: 80%;
+    margin: auto;
+    height: 1.7rem;
+
+}
+.divTag>div{
+    text-align: left;
+   
+    width: 12rem;
+}
+.divTag>div>p{
+     font-size: 0.9rem;
+}
+.deletebtn{
+    margin-top: 4rem;
+    background-color: #ED4D70;
+    height: 2rem;
+    border-radius: 15px;
+    color: white;
+    border: none;
+    margin-left: -14rem;
+    margin-right: 13rem;
+}
+
+
